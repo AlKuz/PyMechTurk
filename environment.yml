@@ -1,0 +1,32 @@
+name: PyMechTurk
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - boto3=1.9.66=py37_0
+  - botocore=1.12.189=py_0
+  - ca-certificates=2020.1.1=0
+  - certifi=2020.4.5.1=py37_0
+  - cffi=1.14.0=py37h7a1dbc1_0
+  - cryptography=2.9.2=py37h7a1dbc1_0
+  - docutils=0.16=py37_0
+  - idna=2.9=py_1
+  - jmespath=0.9.4=py_0
+  - openssl=1.1.1g=he774522_0
+  - pip=20.0.2=py37_3
+  - pycparser=2.20=py_0
+  - pyopenssl=19.1.0=py37_0
+  - pysocks=1.7.1=py37_0
+  - python=3.7.7=h81c818b_4
+  - python-dateutil=2.8.1=py_0
+  - s3transfer=0.1.13=py37_0
+  - setuptools=46.4.0=py37_0
+  - six=1.14.0=py37_0
+  - sqlite=3.31.1=h2a8f88b_1
+  - urllib3=1.25.8=py37_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_2
+  - wheel=0.34.2=py37_0
+  - win_inet_pton=1.1.0=py37_0
+  - wincertstore=0.2=py37_0
+  - zlib=1.2.11=h62dcd97_4
